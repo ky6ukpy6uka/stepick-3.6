@@ -1,2 +1,2 @@
 # stepick-3.6
-Repository for steps tasks
+Repository for stepiks tasks
